@@ -1,0 +1,11 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "Uso de login ",
+  "main": "script.js",
+  "scripts": {
+    "test": "Desenvolvimento fullStack"
+  },
+  "author": "Anderson Dutra",
+  "license": "ISC"
+}
